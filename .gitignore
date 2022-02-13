@@ -1,0 +1,8 @@
+# フォルダの中身を全て無視する
+app/input
+notebook
+mecab-ipadic-neologd
+
+# 特定の拡張子を無視
+*.ipynb
+*.ipynb_checkpoints
